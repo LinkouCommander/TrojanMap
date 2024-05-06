@@ -1,4 +1,5 @@
-video presentation link: https://www.youtube.com/watch?v=3IhQXKd003I
+**Final Report:** [REPORT.md](REPORT.md)\
+**Video Presentation Link:** https://www.youtube.com/watch?v=3IhQXKd003I
 
 # EE538 Final Project - Spring 2024 - TrojanMap
 
